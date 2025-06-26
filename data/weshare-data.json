@@ -8,15 +8,15 @@
     "profilePic": "../assets/user.jpg"
   },
   "stories": [
-    { "id": 1, "name": "Justin Rosser", "avatar": "../public/assets/a3.jpg" },
-    { "id": 2, "name": "Davis Donovan", "avatar": "../public/assets/a2.jpg" },
-    { "id": 3, "name": "Randy Banks", "avatar": "../public/assets/a4.jpg" },
-    { "id": 4, "name": "Charlie Press", "avatar": "../public/assets/a6.jpg" },
-    { "id": 5, "name": "Zain Hewett", "avatar": "../public/assets/a5.jpg" },
-    { "id": 6, "name": "Talon Phipps", "avatar": "../public/assets/a1.jpg" },
-    { "id": 6, "name": "Talon Phipps", "avatar": "../public/assets/a2.jpg" },
-    { "id": 6, "name": "Talon Phipps", "avatar": "../public/assets/a3.jpg" },
-    { "id": 6, "name": "Talon Phipps", "avatar": "../public/assets/a5.jpg" }
+    { "id": 1, "name": "Justin Rosser", "avatar": "../assets/a3.jpg" },
+    { "id": 2, "name": "Davis Donovan", "avatar": "../assets/a2.jpg" },
+    { "id": 3, "name": "Randy Banks", "avatar": "../assets/a4.jpg" },
+    { "id": 4, "name": "Charlie Press", "avatar": "../assets/a6.jpg" },
+    { "id": 5, "name": "Zain Hewett", "avatar": "../assets/a5.jpg" },
+    { "id": 6, "name": "Talon Phipps", "avatar": "../assets/a1.jpg" },
+    { "id": 6, "name": "Talon Phipps", "avatar": "../assets/a2.jpg" },
+    { "id": 6, "name": "Talon Phipps", "avatar": "../assets/a3.jpg" },
+    { "id": 6, "name": "Talon Phipps", "avatar": "../assets/a5.jpg" }
   ],
   "navigation": [
   { "label": "Feed", "icon": "Home" },
@@ -49,9 +49,9 @@
     {
       "id": 101,
       "user": "Cameron Williamson",
-      "profilePic": "../public/assets/a2.jpg",
+      "profilePic": "../assets/a2.jpg",
       "date": "14 Aug at 6:21 PM",
-      "media": ["../public/assets/post/post1.jpg", "../public/assets/post/post2.jpg"],
+      "media": ["../assets/post/post1.jpg", "../assets/post/post2.jpg"],
       "likes": 30,
       "comments": 12,
       "shares": 5
@@ -59,9 +59,49 @@
     {
       "id": 102,
       "user": "Terry Lipshutz",
-      "profilePic": "../public/assets/a1.jpg",
+      "profilePic": "../assets/a1.jpg",
       "date": "14 Aug at 5:44 PM",
-      "media":["../public/assets/post/post4.jpg"],
+      "media":["../assets/post/post4.jpg"],
+      "likes": 24,
+      "comments": 8,
+      "shares": 3
+    },
+    {
+      "id": 102,
+      "user": "Terry Lipshutz",
+      "profilePic": "../assets/a3.jpg",
+      "date": "14 Aug at 5:44 PM",
+      "media":["../assets/post/post9.jpg"],
+      "likes": 24,
+      "comments": 8,
+      "shares": 3
+    },
+    {
+      "id": 102,
+      "user": "Lipshutz Terry ",
+      "profilePic": "../assets/a4.jpg",
+      "date": "14 Aug at 5:44 PM",
+      "media":["../assets/post/post2.jpg"],
+      "likes": 24,
+      "comments": 8,
+      "shares": 3
+    },
+    {
+      "id": 102,
+      "user": "assets ",
+      "profilePic": "../assets/a5.jpg",
+      "date": "14 Aug at 5:44 PM",
+      "media":["../assets/post/post7.jpg"],
+      "likes": 24,
+      "comments": 8,
+      "shares": 3
+    },
+    {
+      "id": 102,
+      "user": "Terry Lipshutz",
+      "profilePic": "../assets/a6.jpg",
+      "date": "14 Aug at 5:44 PM",
+      "media":["../assets/post/post9.jpg"],
       "likes": 24,
       "comments": 8,
       "shares": 3
@@ -71,32 +111,32 @@
   {
     "id": 101,
     "user": "Cameron Williamson",
-    "profilePic": "../public/assets/a1.jpg"
+    "profilePic": "../assets/a1.jpg"
   },
   {
     "id": 102,
     "user": "Jenny Wilson",
-    "profilePic": "../public/assets/a2.jpg"
+    "profilePic": "../assets/a2.jpg"
   },
   {
     "id": 103,
     "user": "Robert Fox",
-    "profilePic": "../public/assets/a3.jpg"
+    "profilePic": "../assets/a3.jpg"
   },
   {
     "id": 104,
     "user": "Kristin Watson",
-    "profilePic": "../public/assets/a4.jpg"
+    "profilePic": "../assets/a4.jpg"
   },
   {
     "id": 105,
     "user": "Floyd Miles",
-    "profilePic": "../public/assets/a5.jpg"
+    "profilePic": "../assets/a5.jpg"
   },
   {
     "id": 106,
     "user": "Savannah Nguyen",
-    "profilePic": "../public/assets/a6.jpg"
+    "profilePic": "../assets/a6.jpg"
   }
 ],
   "events": [

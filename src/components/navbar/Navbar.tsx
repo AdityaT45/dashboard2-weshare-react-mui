@@ -143,7 +143,16 @@ const Navbar:React.FC<NavbarProps> = ({user}) => {
                 src={user.profilePic}
                 sx={{ width: 38, height: 38 }}
               />
-              {user.username}
+               <Box
+    sx={{
+      display: {
+        xs: "none", // hide on extra-small (mobile)
+        sm: "block", // show on small and up
+      },
+    }}
+  >
+    {user.username}
+  </Box>
             </Button>
             <Menu anchorEl={anchorEl} open={open} onClose={handleClose}>
               <MenuItem onClick={handleClose}>Settings</MenuItem>
