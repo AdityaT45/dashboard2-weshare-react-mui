@@ -5,7 +5,7 @@
     "followers": 2300,
     "following": 235,
     "posts": 80,
-    "profilePic": "../public/assets/user.jpg"
+    "profilePic": "../assets/user.jpg"
   },
   "stories": [
     { "id": 1, "name": "Justin Rosser", "avatar": "../public/assets/a3.jpg" },
