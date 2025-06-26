@@ -1,6 +1,6 @@
 import {  Avatar,  Badge,  Box,  Button,  FormControl,  Input,  InputAdornment,  Menu,  MenuItem,
   Typography,} from "@mui/material";
-import logo from "../../assets/logo.jpg";
+import logo from "../../../public/assets/logo.jpg";
 import SearchIcon from "@mui/icons-material/Search";
 import NotificationsIcon from "@mui/icons-material/Notifications";
 import BookmarkIcon from "@mui/icons-material/Bookmark";
