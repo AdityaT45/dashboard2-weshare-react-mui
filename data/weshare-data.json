@@ -1,0 +1,108 @@
+{
+  "user": {
+    "name": "Jakob Botosh",
+    "username": "@jakobbotosh",
+    "followers": 2300,
+    "following": 235,
+    "posts": 80,
+    "profilePic": "../src/assets/user.jpg"
+  },
+  "stories": [
+    { "id": 1, "name": "Justin Rosser", "avatar": "../src/assets/a3.jpg" },
+    { "id": 2, "name": "Davis Donovan", "avatar": "../src/assets/a2.jpg" },
+    { "id": 3, "name": "Randy Banks", "avatar": "../src/assets/a4.jpg" },
+    { "id": 4, "name": "Charlie Press", "avatar": "../src/assets/a6.jpg" },
+    { "id": 5, "name": "Zain Hewett", "avatar": "../src/assets/a5.jpg" },
+    { "id": 6, "name": "Talon Phipps", "avatar": "../src/assets/a1.jpg" },
+    { "id": 6, "name": "Talon Phipps", "avatar": "../src/assets/a2.jpg" },
+    { "id": 6, "name": "Talon Phipps", "avatar": "../src/assets/a3.jpg" },
+    { "id": 6, "name": "Talon Phipps", "avatar": "../src/assets/a5.jpg" }
+  ],
+  "navigation": [
+  { "label": "Feed", "icon": "Home" },
+  { "label": "Friends", "icon": "Group" },
+  { "label": "Event", "icon": "Event" },
+  { "label": "Watch Videos", "icon": "VideoLibrary" },
+  { "label": "Photos", "icon": "PhotoLibrary" },
+  { "label": "Marketplace", "icon": "Store" },
+  { "label": "Files", "icon": "Folder" }
+],
+  "pagesYouLike": [
+  {
+    "label": "UI/UX Community",
+    "icon": "DesignServices"
+  },
+  {
+    "label": "Web Designer",
+    "icon": "Language"
+  },
+  {
+    "label": "Dribbble Community",
+    "icon": "SportsBasketball"
+  },
+  {
+    "label": "Behance",
+    "icon": "Brush"
+  }
+],
+  "posts": [
+    {
+      "id": 101,
+      "user": "Cameron Williamson",
+      "profilePic": "../src/assets/a2.jpg",
+      "date": "14 Aug at 6:21 PM",
+      "media": ["../src/assets/post/post1.jpg", "../src/assets/post/post2.jpg"],
+      "likes": 30,
+      "comments": 12,
+      "shares": 5
+    },
+    {
+      "id": 102,
+      "user": "Terry Lipshutz",
+      "profilePic": "../src/assets/a1.jpg",
+      "date": "14 Aug at 5:44 PM",
+      "media":["../src/assets/post/post4.jpg"],
+      "likes": 24,
+      "comments": 8,
+      "shares": 3
+    }
+  ],
+  "messages": [
+  {
+    "id": 101,
+    "user": "Cameron Williamson",
+    "profilePic": "../src/assets/a1.jpg"
+  },
+  {
+    "id": 102,
+    "user": "Jenny Wilson",
+    "profilePic": "../src/assets/a2.jpg"
+  },
+  {
+    "id": 103,
+    "user": "Robert Fox",
+    "profilePic": "../src/assets/a3.jpg"
+  },
+  {
+    "id": 104,
+    "user": "Kristin Watson",
+    "profilePic": "../src/assets/a4.jpg"
+  },
+  {
+    "id": 105,
+    "user": "Floyd Miles",
+    "profilePic": "../src/assets/a5.jpg"
+  },
+  {
+    "id": 106,
+    "user": "Savannah Nguyen",
+    "profilePic": "../src/assets/a6.jpg"
+  }
+],
+  "events": [
+  { "label": "10 Event Invites", "icon": "EventAvailable" },
+  { "label": "Design System Collaboration", "icon": "Groups" },
+  { "label": "Web Dev 2.0 Meetup", "icon": "Computer" },
+  { "label": "Prada’s Invitation Birthday", "icon": "Cake" }
+]
+}
